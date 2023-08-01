@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "name": "Project A",
+      "image": "imageA.jpg",
+      "description": "This is a description for Project A.",
+      "url": "https://example.com/projectA"
+    },
+    {
+      "name": "Project B",
+      "image": "imageB.jpg",
+      "description": "This is a description for Project B.",
+      "url": "https://example.com/projectB"
+    },
+    {
+      "name": "Project C",
+      "image": "imageC.jpg",
+      "description": "This is a description for Project C.",
+      "url": "https://example.com/projectC"
+    }
+  ]
+}
